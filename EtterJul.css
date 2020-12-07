@@ -2,5 +2,11 @@ h1{
     color: red;
     font-weight: bolder;
     text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
-p{text-align: center;}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+br{height: 100vh;}

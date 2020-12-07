@@ -2,11 +2,16 @@ h1{
     color: red;
     font-weight: bolder;
     text-align: center;
-    font-size: xx-large;
+    font-size: 10em;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 10px solid red;
+    border-radius: 100px;
 }
 p{
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-br{height: 100vh;}
+div p{
+    font-size: 0;
+    height: 100vh;
+}
